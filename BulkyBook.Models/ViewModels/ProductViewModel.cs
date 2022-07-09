@@ -8,6 +8,6 @@ namespace BulkyBook.Models.ViewModels
 
         public IEnumerable<SelectListItem>? CategoryList { get; set; }
 
-        public IEnumerable<SelectListItem>? CoverTyperList { get; set; }
+        public IEnumerable<SelectListItem>? CoverTypeList { get; set; }
     }
 }
